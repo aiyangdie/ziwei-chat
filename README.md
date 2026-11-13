@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/covers/23-ziwei-chat.jpg" alt="ziwei-chat 项目封面" width="100%"></p>
+
 # 紫微斗数 · 开源排盘引擎
 
 [![CI](https://github.com/Renhuai123/ziwei-doushu/actions/workflows/ci.yml/badge.svg)](https://github.com/Renhuai123/ziwei-doushu/actions/workflows/ci.yml)
